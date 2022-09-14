@@ -30,3 +30,6 @@
 #import "../src/MDCTextInputControllerOutlinedTextArea.h"
 #import "../src/MDCTextInputControllerUnderline.h"
 #import "../src/MDCTextInputUnderlineView.h"
+#import "../src/MDCContainerScheme.h"
+#import "../src/MaterialContainerScheme.h"
+#import "../src/Theming/MaterialTextFields+Theming.h"

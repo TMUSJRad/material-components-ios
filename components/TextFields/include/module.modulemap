@@ -1,10 +1,8 @@
 module MaterialComponents {
   requires objc, objc_arc
 
-  explicit module MaterialTextFields {
-    umbrella header "MaterialTextFields.h"
-  }
+umbrella header "MaterialTextFields.h"
 
-
-  export *
+export *
+module * { export * }
 }
